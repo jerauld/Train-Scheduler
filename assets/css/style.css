@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color: #4aa2d3;
+    color: #fff;
+    text-align: center;
+    
+}
+
+body {
+    font-family: 'Open Sans', Sans-Serif;
+    padding-bottom: 32px;
+    background-color: #e0e1e3;
+
+}
+
+.schedule {
+    margin-bottom: 32px;
+}
+
+.card-header {
+    background-color: #323232;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Raleway', Sans-Serif;
+    font-weight: bold;
+}
+
+th {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #4aa2d3;
+}

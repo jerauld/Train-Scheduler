@@ -6,7 +6,7 @@ Flinders Street Station Train Schedule was created for the Train Scheduler homew
 
 ## Demo (via GitHub Pages)
 
-https://julienshim.github.io/Train-Scheduler/
+https://julienshim.github.io/train-scheduler/
 
 ## Requirements
 
